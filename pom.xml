@@ -143,8 +143,8 @@
 								${project.basedir}/src/main/resources/openapi.yaml
 							</inputSpec>
 							<generatorName>spring</generatorName>
-							<apiPackage>com.baeldung.openapi.api</apiPackage>
-							<modelPackage>com.baeldung.openapi.model</modelPackage>
+							<apiPackage>com.foxdev.openapi.api</apiPackage>
+							<modelPackage>com.foxdev.openapi.model</modelPackage>
 							<supportingFilesToGenerate>
 								ApiUtil.java
 							</supportingFilesToGenerate>
